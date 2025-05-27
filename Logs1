@@ -1,0 +1,9 @@
+
+the value of a is 10
+the value of b is 20
+the sum of two values is 30
+iam done
+the value of a is 10
+the value of b is 20
+unsupported operand type(s) for +: 'int' and 'str'
+iam done
