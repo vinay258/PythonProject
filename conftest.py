@@ -31,8 +31,8 @@ def get_driver_to_application():
 
 
 
-"""@pytest.fixture(scope="class")
+@pytest.fixture(scope="class")
 def common_fix():
     print("iam the common fixture")
     yield
-    print("this is the last line i have printed after test case execution ")"""
+    print("this is the last line i have printed after test case execution ")
